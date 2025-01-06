@@ -1,0 +1,28 @@
+
+body {
+    background-color: #f8f9fa;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://media.istockphoto.com/id/1347310666/photo/processor-chip-tech-environment-blockchain-concept.jpg?s=612x612&w=0&k=20&c=Z_3spFThU3whPdUJkV66s1b0KT6VQMIl7zJZtvEN2KI=");
+}
+
+.card {
+    
+    border-radius: 15px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 8px 4px 4px skyblue !important;
+    margin-bottom: 80px;
+    margin-top: 100px;
+    /* background: transparent !important; */
+
+}
+
+h3 {
+    color: #007bff;
+}
+
+button {
+    border-radius: 30px;
+}
